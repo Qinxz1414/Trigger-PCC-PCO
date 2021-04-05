@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<Project>
+<ProjInfo>
+<EnterFile>Trigger.t</EnterFile>
+<Language>0</Language>
+<Version>7.0</Version>
+<ExeIco/>
+<Platform>pc</Platform>
+</ProjInfo>
+<DesignInfo>
+<LockedCtrl></LockedCtrl>
+</DesignInfo>
+<VersionInfo>
+<CompanyName>JLU</CompanyName>
+<ProductName>Trigger</ProductName>
+<FileDescription>Trigger</FileDescription>
+<InternalName>Trigger</InternalName>
+<LegalCopyright>(C)Qin Xuezhi</LegalCopyright>
+<FileVersion>1.0.0.0</FileVersion>
+<ProductVersion>1.0.0.0</ProductVersion>
+</VersionInfo>
+</Project>
